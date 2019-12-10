@@ -35,12 +35,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mironal/electron-oauth-helper.git"
+    "url": "https://github.com/my0419/electron-oauth-helper.git"
   },
-  "homepage": "https://github.com/mironal/electron-oauth-helper",
-  "bugs": {
-    "url": "https://github.com/mironal/electron-oauth-helper/issues"
-  },
+  "homepage": "https://github.com/my0419/electron-oauth-helper",
   "devDependencies": {
     "@jest-runner/electron": "1.1.1",
     "@types/debug": "4.1.4",
