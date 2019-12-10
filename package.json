@@ -47,6 +47,7 @@
     "@types/koa-router": "7.0.40",
     "@types/node": "11.13.9",
     "@typescript-eslint/eslint-plugin": "1.7.0",
+    "axios": "^0.18.0",
     "electron": "4.2.0",
     "electron-rebuild": "1.8.4",
     "eslint": "5.16.0",
