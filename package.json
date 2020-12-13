@@ -1,5 +1,5 @@
 {
-  "name": "@my0419/electron-oauth-helper",
+  "name": "my0419/electron-oauth-helper",
   "version": "6.0.0",
   "description": "Easy to use helper library for OAuth1 and OAuth2.",
   "scripts": {
@@ -35,9 +35,6 @@
   "license": "MIT",
   "repository": {
     "url": "git@github.com:my0419/electron-oauth-helper.git"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
   },
   "homepage": "https://github.com/my0419/electron-oauth-helper",
   "devDependencies": {
